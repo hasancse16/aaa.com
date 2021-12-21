@@ -1,0 +1,207 @@
+/* large desktop :1700px. */
+@media (min-width: 1500px) and (max-width: 1800px) {
+
+
+
+}
+
+/* large desktop :1700px. */
+@media (min-width: 1500px) and (max-width: 1600px) {
+    .header-right-wrapper {
+        margin-right: 50px;
+    }
+}
+
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+
+
+
+}
+
+
+/* Normal desktop :1200px +. */
+@media (min-width: 1200px) and (max-width: 1260px) {
+
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    /* .section-title h2 {
+        font-size: 45px;
+        margin-bottom: 0;
+    }
+    .services-text h4 {
+        font-size: 18px;
+    }
+    .service-box {
+        padding: 43px 15px 38px;
+    }
+    .team-text h3 {
+        font-size: 20px;
+    }
+    .team-text {
+        margin-right: 40px;
+    }
+    .footer-cta-text h3 {
+        font-size: 24px;
+    } */
+
+
+
+
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .member-title h3 {
+        font-size: 27px;
+    }
+    .footer-icon a {
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+        margin-right: 3px;
+    }
+   
+    .member-logo .img-2 {
+        margin-left: 180px;
+        margin-top: -83px;
+    }
+    .section-title h2 {
+        font-size: 30px;
+        margin-left: 0;
+    }
+    .footer-wrapper.footer-social-section.mb-30 {
+        max-width: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .footer-social-icon.mt-40 {
+        margin-top: 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-left: 40px;
+        margin-top: 0;
+    }
+    .footer-social-icon a {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        margin-right: 20px;
+    }
+    .membership {
+        margin-top: 30px !important;
+        margin-bottom: 30px;
+    }
+    .member-logo .img-2 {
+        margin-left: 30px;
+        margin-top: 0;
+    }
+}
+
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .slider-active.slick-initialized.slick-slider {
+        height: 450px;
+    }
+    .about-us-area.pos-rel.grey-bg.pb-20.pt-50 {
+        padding-top: 20px;
+        padding-bottom: 0;
+    }
+    .section-title h2 {
+        font-size: 20px;
+    }
+    .section-title h4 {
+        margin-top: 15px;
+        font-size: 17px;
+    }
+    .section-title p {
+        margin-top: 8px;
+        margin-bottom: 10px;
+    }
+    .section-title h6 {
+        margin-top: 20px;
+    }
+    .section-title.mb-40 {
+        margin-bottom: 0;
+    }
+    .ser-pt {
+        padding-top: 20px;
+    }
+    .section-title.white-title.text-center.mb-30 {
+        margin-bottom: 20px;
+    }
+    #scrollUp {
+        display: none !important;
+    }
+    .footer-wrapper.footer-social-section.mb-30 {
+        max-width: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .footer-social-icon.mt-40 {
+        margin-top: 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-left: 25px;
+    }
+    .footer-social-icon a {
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+        margin-right: 8px;
+    }
+    .contact-address-icon i {
+        height: 50px;
+        width: 50px;
+        font-size: 24px;
+        line-height: 50px;
+    }
+    .membership {
+        margin-top: 0 !important;
+    }
+    .contacts-wrapper.text-center.mb-30 {
+        margin-bottom: 0;
+    }
+
+}
+@media (max-width: 550px) {
+
+    .footer-social-icon.mt-40 {
+        margin-left: 15px;
+    }
+    
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 550px) and (max-width: 767px) {
+.slider-button a.white-btn {
+	margin-left: 0;
+	margin-top: 15px;
+}
+
+
+
+
+}
+@media (max-width: 360px) {
+    .member-logo .img-2 {
+        margin-left: 170px;
+        margin-top: -83px;
+    }
+    .member-logo img {
+        width: 150px;
+    }
+}
